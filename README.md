@@ -11,3 +11,7 @@ Fraudulent
 - Fraudulent: target variable
 - 0 = Legitimate transaction
 - 1 = Fraudulent transaction
+<<<<<<< HEAD
+=======
+
+>>>>>>> 702dcef4184f2dbdec376b3724493132d2084554
